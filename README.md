@@ -12,4 +12,5 @@ La classe contenant le Main est LauncherApp.java et doit être exécuté avec un
 --module-path "C:\Users\EXAMPLE\PATH\TO\javafx-sdk-21.0.1\lib" --add-modules javafx.controls,javafx.fxml
 
 Mise en oeuvre SGBD : Liens SGBD-OO - TP8 : Bourses Erasmus 
+
 Hugo.H, Evan.T 2023/24
