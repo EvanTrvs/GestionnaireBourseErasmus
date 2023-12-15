@@ -8,5 +8,6 @@ Pour s’exécuter le programme nécessite d’avoir accès à toutes les librai
 - mysql-connector-j-8.1.0
 
 La classe contenant le Main est LauncherApp.java et doit être exécuté avec un argument pour le bon fonctionnement des vues :
+
 --module-path "C:\Users\EXAMPLE\PATH\TO\javafx-sdk-21.0.1\lib" --add-modules javafx.controls,javafx.fxml
 
